@@ -1,0 +1,506 @@
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c73"), 
+    "employeeNumber" : NumberInt(1002), 
+    "lastName" : "Murphy", 
+    "firstName" : "Diane", 
+    "extension" : "x5800", 
+    "email" : "dmurphy@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : null, 
+    "jobTitle" : "President"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c74"), 
+    "employeeNumber" : NumberInt(1056), 
+    "lastName" : "Patterson", 
+    "firstName" : "Mary", 
+    "extension" : "x4611", 
+    "email" : "mpatterso@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1002), 
+    "jobTitle" : "VP Sales"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c75"), 
+    "employeeNumber" : NumberInt(1076), 
+    "lastName" : "Firrelli", 
+    "firstName" : "Jeff", 
+    "extension" : "x9273", 
+    "email" : "jfirrelli@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1002), 
+    "jobTitle" : "VP Marketing"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c76"), 
+    "employeeNumber" : NumberInt(1088), 
+    "lastName" : "Patterson", 
+    "firstName" : "William", 
+    "extension" : "x4871", 
+    "email" : "wpatterson@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sales Manager (APAC)"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c77"), 
+    "employeeNumber" : NumberInt(1102), 
+    "lastName" : "Bondur", 
+    "firstName" : "Gerard", 
+    "extension" : "x5408", 
+    "email" : "gbondur@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sale Manager (EMEA)"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c78"), 
+    "employeeNumber" : NumberInt(1143), 
+    "lastName" : "Bow", 
+    "firstName" : "Anthony", 
+    "extension" : "x5428", 
+    "email" : "abow@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sales Manager (NA)"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c79"), 
+    "employeeNumber" : NumberInt(1165), 
+    "lastName" : "Jennings", 
+    "firstName" : "Leslie", 
+    "extension" : "x3291", 
+    "email" : "ljennings@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c7a"), 
+    "employeeNumber" : NumberInt(1166), 
+    "lastName" : "Thompson", 
+    "firstName" : "Leslie", 
+    "extension" : "x4065", 
+    "email" : "lthompson@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c7b"), 
+    "employeeNumber" : NumberInt(1188), 
+    "lastName" : "Firrelli", 
+    "firstName" : "Julie", 
+    "extension" : "x2173", 
+    "email" : "jfirrelli@classicmodelcars.com", 
+    "officeCode" : "2", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c7c"), 
+    "employeeNumber" : NumberInt(1216), 
+    "lastName" : "Patterson", 
+    "firstName" : "Steve", 
+    "extension" : "x4334", 
+    "email" : "spatterson@classicmodelcars.com", 
+    "officeCode" : "2", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c7d"), 
+    "employeeNumber" : NumberInt(1286), 
+    "lastName" : "Tseng", 
+    "firstName" : "Foon Yue", 
+    "extension" : "x2248", 
+    "email" : "ftseng@classicmodelcars.com", 
+    "officeCode" : "3", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c7e"), 
+    "employeeNumber" : NumberInt(1323), 
+    "lastName" : "Vanauf", 
+    "firstName" : "George", 
+    "extension" : "x4102", 
+    "email" : "gvanauf@classicmodelcars.com", 
+    "officeCode" : "3", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c7f"), 
+    "employeeNumber" : NumberInt(1337), 
+    "lastName" : "Bondur", 
+    "firstName" : "Loui", 
+    "extension" : "x6493", 
+    "email" : "lbondur@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c80"), 
+    "employeeNumber" : NumberInt(1370), 
+    "lastName" : "Hernandez", 
+    "firstName" : "Gerard", 
+    "extension" : "x2028", 
+    "email" : "ghernande@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c81"), 
+    "employeeNumber" : NumberInt(1401), 
+    "lastName" : "Castillo", 
+    "firstName" : "Pamela", 
+    "extension" : "x2759", 
+    "email" : "pcastillo@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c82"), 
+    "employeeNumber" : NumberInt(1501), 
+    "lastName" : "Bott", 
+    "firstName" : "Larry", 
+    "extension" : "x2311", 
+    "email" : "lbott@classicmodelcars.com", 
+    "officeCode" : "7", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c83"), 
+    "employeeNumber" : NumberInt(1504), 
+    "lastName" : "Jones", 
+    "firstName" : "Barry", 
+    "extension" : "x102", 
+    "email" : "bjones@classicmodelcars.com", 
+    "officeCode" : "7", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c84"), 
+    "employeeNumber" : NumberInt(1611), 
+    "lastName" : "Fixter", 
+    "firstName" : "Andy", 
+    "extension" : "x101", 
+    "email" : "afixter@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1088), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c85"), 
+    "employeeNumber" : NumberInt(1612), 
+    "lastName" : "Marsh", 
+    "firstName" : "Peter", 
+    "extension" : "x102", 
+    "email" : "pmarsh@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1088), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c86"), 
+    "employeeNumber" : NumberInt(1619), 
+    "lastName" : "King", 
+    "firstName" : "Tom", 
+    "extension" : "x103", 
+    "email" : "tking@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1088), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c87"), 
+    "employeeNumber" : NumberInt(1621), 
+    "lastName" : "Nishi", 
+    "firstName" : "Mami", 
+    "extension" : "x101", 
+    "email" : "mnishi@classicmodelcars.com", 
+    "officeCode" : "5", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c88"), 
+    "employeeNumber" : NumberInt(1625), 
+    "lastName" : "Kato", 
+    "firstName" : "Yoshimi", 
+    "extension" : "x102", 
+    "email" : "ykato@classicmodelcars.com", 
+    "officeCode" : "5", 
+    "reportsTo" : NumberInt(1621), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f3a05463b1180f359c89"), 
+    "employeeNumber" : NumberInt(1702), 
+    "lastName" : "Gerard", 
+    "firstName" : "Martin", 
+    "extension" : "x2312", 
+    "email" : "mgerard@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3c9"), 
+    "employeeNumber" : NumberInt(1002), 
+    "lastName" : "Murphy", 
+    "firstName" : "Diane", 
+    "extension" : "x5800", 
+    "email" : "dmurphy@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : null, 
+    "jobTitle" : "President"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3ca"), 
+    "employeeNumber" : NumberInt(1056), 
+    "lastName" : "Patterson", 
+    "firstName" : "Mary", 
+    "extension" : "x4611", 
+    "email" : "mpatterso@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1002), 
+    "jobTitle" : "VP Sales"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3cb"), 
+    "employeeNumber" : NumberInt(1076), 
+    "lastName" : "Firrelli", 
+    "firstName" : "Jeff", 
+    "extension" : "x9273", 
+    "email" : "jfirrelli@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1002), 
+    "jobTitle" : "VP Marketing"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3cc"), 
+    "employeeNumber" : NumberInt(1088), 
+    "lastName" : "Patterson", 
+    "firstName" : "William", 
+    "extension" : "x4871", 
+    "email" : "wpatterson@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sales Manager (APAC)"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3cd"), 
+    "employeeNumber" : NumberInt(1102), 
+    "lastName" : "Bondur", 
+    "firstName" : "Gerard", 
+    "extension" : "x5408", 
+    "email" : "gbondur@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sale Manager (EMEA)"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3ce"), 
+    "employeeNumber" : NumberInt(1143), 
+    "lastName" : "Bow", 
+    "firstName" : "Anthony", 
+    "extension" : "x5428", 
+    "email" : "abow@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sales Manager (NA)"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3cf"), 
+    "employeeNumber" : NumberInt(1165), 
+    "lastName" : "Jennings", 
+    "firstName" : "Leslie", 
+    "extension" : "x3291", 
+    "email" : "ljennings@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d0"), 
+    "employeeNumber" : NumberInt(1166), 
+    "lastName" : "Thompson", 
+    "firstName" : "Leslie", 
+    "extension" : "x4065", 
+    "email" : "lthompson@classicmodelcars.com", 
+    "officeCode" : "1", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d1"), 
+    "employeeNumber" : NumberInt(1188), 
+    "lastName" : "Firrelli", 
+    "firstName" : "Julie", 
+    "extension" : "x2173", 
+    "email" : "jfirrelli@classicmodelcars.com", 
+    "officeCode" : "2", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d2"), 
+    "employeeNumber" : NumberInt(1216), 
+    "lastName" : "Patterson", 
+    "firstName" : "Steve", 
+    "extension" : "x4334", 
+    "email" : "spatterson@classicmodelcars.com", 
+    "officeCode" : "2", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d3"), 
+    "employeeNumber" : NumberInt(1286), 
+    "lastName" : "Tseng", 
+    "firstName" : "Foon Yue", 
+    "extension" : "x2248", 
+    "email" : "ftseng@classicmodelcars.com", 
+    "officeCode" : "3", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d4"), 
+    "employeeNumber" : NumberInt(1323), 
+    "lastName" : "Vanauf", 
+    "firstName" : "George", 
+    "extension" : "x4102", 
+    "email" : "gvanauf@classicmodelcars.com", 
+    "officeCode" : "3", 
+    "reportsTo" : NumberInt(1143), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d5"), 
+    "employeeNumber" : NumberInt(1337), 
+    "lastName" : "Bondur", 
+    "firstName" : "Loui", 
+    "extension" : "x6493", 
+    "email" : "lbondur@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d6"), 
+    "employeeNumber" : NumberInt(1370), 
+    "lastName" : "Hernandez", 
+    "firstName" : "Gerard", 
+    "extension" : "x2028", 
+    "email" : "ghernande@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d7"), 
+    "employeeNumber" : NumberInt(1401), 
+    "lastName" : "Castillo", 
+    "firstName" : "Pamela", 
+    "extension" : "x2759", 
+    "email" : "pcastillo@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d8"), 
+    "employeeNumber" : NumberInt(1501), 
+    "lastName" : "Bott", 
+    "firstName" : "Larry", 
+    "extension" : "x2311", 
+    "email" : "lbott@classicmodelcars.com", 
+    "officeCode" : "7", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3d9"), 
+    "employeeNumber" : NumberInt(1504), 
+    "lastName" : "Jones", 
+    "firstName" : "Barry", 
+    "extension" : "x102", 
+    "email" : "bjones@classicmodelcars.com", 
+    "officeCode" : "7", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3da"), 
+    "employeeNumber" : NumberInt(1611), 
+    "lastName" : "Fixter", 
+    "firstName" : "Andy", 
+    "extension" : "x101", 
+    "email" : "afixter@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1088), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3db"), 
+    "employeeNumber" : NumberInt(1612), 
+    "lastName" : "Marsh", 
+    "firstName" : "Peter", 
+    "extension" : "x102", 
+    "email" : "pmarsh@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1088), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3dc"), 
+    "employeeNumber" : NumberInt(1619), 
+    "lastName" : "King", 
+    "firstName" : "Tom", 
+    "extension" : "x103", 
+    "email" : "tking@classicmodelcars.com", 
+    "officeCode" : "6", 
+    "reportsTo" : NumberInt(1088), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3dd"), 
+    "employeeNumber" : NumberInt(1621), 
+    "lastName" : "Nishi", 
+    "firstName" : "Mami", 
+    "extension" : "x101", 
+    "email" : "mnishi@classicmodelcars.com", 
+    "officeCode" : "5", 
+    "reportsTo" : NumberInt(1056), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3de"), 
+    "employeeNumber" : NumberInt(1625), 
+    "lastName" : "Kato", 
+    "firstName" : "Yoshimi", 
+    "extension" : "x102", 
+    "email" : "ykato@classicmodelcars.com", 
+    "officeCode" : "5", 
+    "reportsTo" : NumberInt(1621), 
+    "jobTitle" : "Sales Rep"
+}
+{ 
+    "_id" : ObjectId("5da5f48d5463b1180f35a3df"), 
+    "employeeNumber" : NumberInt(1702), 
+    "lastName" : "Gerard", 
+    "firstName" : "Martin", 
+    "extension" : "x2312", 
+    "email" : "mgerard@classicmodelcars.com", 
+    "officeCode" : "4", 
+    "reportsTo" : NumberInt(1102), 
+    "jobTitle" : "Sales Rep"
+}
