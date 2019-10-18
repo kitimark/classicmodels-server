@@ -1,4 +1,4 @@
-version: '3'
+version: '2'
 
 services: 
   db:
@@ -8,7 +8,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: 1234
     volumes:
-      - ./mysql:/var/lib/mysql
+      - mysql:/var/lib/mysql
       - ./sql:/docker-entrypoint-initdb.d
     ports:
       - 3306:3306
@@ -23,7 +23,12 @@ services:
   
   mongo:
     image: mongo
+    restart: always
     ports:
     - "27017:27017"
     volumes:
-    - ./mongodb:/data/db
+    - mongodb:/data/db
+
+volumes:
+  mongodb:
+  mysql:

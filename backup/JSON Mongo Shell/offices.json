@@ -1,5 +1,5 @@
 { 
-    "_id" : ObjectId("5da5f3a15463b1180f359c8a"), 
+    "_id" : ObjectId("5da9a3ec7083dd7df914a2c8"), 
     "officeCode" : "1", 
     "city" : "San Francisco", 
     "phone" : "+1 650 219 4782", 
@@ -11,7 +11,7 @@
     "territory" : "NA"
 }
 { 
-    "_id" : ObjectId("5da5f3a15463b1180f359c8b"), 
+    "_id" : ObjectId("5da9a3ec7083dd7df914a2c9"), 
     "officeCode" : "2", 
     "city" : "Boston", 
     "phone" : "+1 215 837 0825", 
@@ -23,7 +23,7 @@
     "territory" : "NA"
 }
 { 
-    "_id" : ObjectId("5da5f3a15463b1180f359c8c"), 
+    "_id" : ObjectId("5da9a3ec7083dd7df914a2ca"), 
     "officeCode" : "3", 
     "city" : "NYC", 
     "phone" : "+1 212 555 3000", 
@@ -35,7 +35,7 @@
     "territory" : "NA"
 }
 { 
-    "_id" : ObjectId("5da5f3a15463b1180f359c8d"), 
+    "_id" : ObjectId("5da9a3ec7083dd7df914a2cb"), 
     "officeCode" : "4", 
     "city" : "Paris", 
     "phone" : "+33 14 723 4404", 
@@ -47,7 +47,7 @@
     "territory" : "EMEA"
 }
 { 
-    "_id" : ObjectId("5da5f3a15463b1180f359c8e"), 
+    "_id" : ObjectId("5da9a3ec7083dd7df914a2cc"), 
     "officeCode" : "5", 
     "city" : "Tokyo", 
     "phone" : "+81 33 224 5000", 
@@ -59,7 +59,7 @@
     "territory" : "Japan"
 }
 { 
-    "_id" : ObjectId("5da5f3a15463b1180f359c8f"), 
+    "_id" : ObjectId("5da9a3ec7083dd7df914a2cd"), 
     "officeCode" : "6", 
     "city" : "Sydney", 
     "phone" : "+61 2 9264 2451", 
@@ -71,91 +71,7 @@
     "territory" : "APAC"
 }
 { 
-    "_id" : ObjectId("5da5f3a15463b1180f359c90"), 
-    "officeCode" : "7", 
-    "city" : "London", 
-    "phone" : "+44 20 7877 2041", 
-    "addressLine1" : "25 Old Broad Street", 
-    "addressLine2" : "Level 7", 
-    "state" : null, 
-    "country" : "UK", 
-    "postalCode" : "EC2N 1HN", 
-    "territory" : "EMEA"
-}
-{ 
-    "_id" : ObjectId("5da5f48d5463b1180f35a3e0"), 
-    "officeCode" : "1", 
-    "city" : "San Francisco", 
-    "phone" : "+1 650 219 4782", 
-    "addressLine1" : "100 Market Street", 
-    "addressLine2" : "Suite 300", 
-    "state" : "CA", 
-    "country" : "USA", 
-    "postalCode" : "94080", 
-    "territory" : "NA"
-}
-{ 
-    "_id" : ObjectId("5da5f48d5463b1180f35a3e1"), 
-    "officeCode" : "2", 
-    "city" : "Boston", 
-    "phone" : "+1 215 837 0825", 
-    "addressLine1" : "1550 Court Place", 
-    "addressLine2" : "Suite 102", 
-    "state" : "MA", 
-    "country" : "USA", 
-    "postalCode" : "02107", 
-    "territory" : "NA"
-}
-{ 
-    "_id" : ObjectId("5da5f48d5463b1180f35a3e2"), 
-    "officeCode" : "3", 
-    "city" : "NYC", 
-    "phone" : "+1 212 555 3000", 
-    "addressLine1" : "523 East 53rd Street", 
-    "addressLine2" : "apt. 5A", 
-    "state" : "NY", 
-    "country" : "USA", 
-    "postalCode" : "10022", 
-    "territory" : "NA"
-}
-{ 
-    "_id" : ObjectId("5da5f48d5463b1180f35a3e3"), 
-    "officeCode" : "4", 
-    "city" : "Paris", 
-    "phone" : "+33 14 723 4404", 
-    "addressLine1" : "43 Rue Jouffroy D'abbans", 
-    "addressLine2" : null, 
-    "state" : null, 
-    "country" : "France", 
-    "postalCode" : "75017", 
-    "territory" : "EMEA"
-}
-{ 
-    "_id" : ObjectId("5da5f48d5463b1180f35a3e4"), 
-    "officeCode" : "5", 
-    "city" : "Tokyo", 
-    "phone" : "+81 33 224 5000", 
-    "addressLine1" : "4-1 Kioicho", 
-    "addressLine2" : null, 
-    "state" : "Chiyoda-Ku", 
-    "country" : "Japan", 
-    "postalCode" : "102-8578", 
-    "territory" : "Japan"
-}
-{ 
-    "_id" : ObjectId("5da5f48d5463b1180f35a3e5"), 
-    "officeCode" : "6", 
-    "city" : "Sydney", 
-    "phone" : "+61 2 9264 2451", 
-    "addressLine1" : "5-11 Wentworth Avenue", 
-    "addressLine2" : "Floor #2", 
-    "state" : null, 
-    "country" : "Australia", 
-    "postalCode" : "NSW 2010", 
-    "territory" : "APAC"
-}
-{ 
-    "_id" : ObjectId("5da5f48d5463b1180f35a3e6"), 
+    "_id" : ObjectId("5da9a3ec7083dd7df914a2ce"), 
     "officeCode" : "7", 
     "city" : "London", 
     "phone" : "+44 20 7877 2041", 
