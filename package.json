@@ -1,0 +1,22 @@
+{
+  "name": "classicmodels-server",
+  "version": "1.0.0",
+  "description": "> Project for fundamental of database\r ## Requirement\r - docker  >= 19.x.x\r - docker-compose >= 1.24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkwskiti/classicmodels-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkwskiti/classicmodels-server/issues"
+  },
+  "homepage": "https://github.com/mrkwskiti/classicmodels-server#readme",
+  "dependencies": {
+    "mongodb": "^3.3.5"
+  }
+}
